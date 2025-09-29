@@ -1,0 +1,10 @@
+{
+  "name": "jekyll-image-gallery-example",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "lightgallery": "^2.7.2",
+    "isotope": "^3.0.6"
+  }
+}
+
