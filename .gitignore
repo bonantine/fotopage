@@ -4,5 +4,9 @@ _site/
 .jekyll-metadata
 .DS_Store
 
-# Photos are kept out of the repository (deployed separately)
-assets/photography/
+# Full-resolution originals are kept out of the repository;
+# generated web sizes (*-thumbnail.jpg, *-WIDTHxHEIGHT.jpg) are committed
+assets/photography/**
+!assets/photography/**/
+!assets/photography/**/*-thumbnail.jpg
+!assets/photography/**/*-[0-9]*x[0-9]*.jpg

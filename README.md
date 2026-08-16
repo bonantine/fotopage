@@ -11,9 +11,13 @@ bundle exec jekyll serve
 
 Then open <http://localhost:4000/fotopage/> (the `/fotopage/` suffix is required because of `baseurl`). Restart the server after editing `_config.yml`.
 
-## Photos are not in the repository
+## Photos: only web sizes are in the repository
 
-`assets/photography/` is listed in `.gitignore`: the photos only exist locally and are **not** committed. Keep a backup of that folder — git does not protect it. It also means a plain GitHub Pages build from this repository will have no images; the photos must be uploaded to the web server (or added back to the repository) separately.
+`.gitignore` keeps the full-resolution originals out of git: only the generated web files (`*-thumbnail.jpg` and `*-WIDTHxHEIGHT.jpg`) are committed and published. The lightbox opens the largest web size, never the original. **Keep a backup of the originals** — git does not protect them.
+
+## Deployment
+
+Every push to `main` triggers the GitHub Actions workflow (`.github/workflows/pages.yml`), which builds the site with Jekyll 4 and publishes it to GitHub Pages at <https://bonantine.github.io/fotopage/>. The repository must be public (or on a paid plan) for Pages to work.
 
 ## Add a new gallery
 

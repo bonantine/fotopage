@@ -108,3 +108,21 @@ $on-laptop:        800px;
         clear: both;
     }
 }
+
+// Cover page (homepage)
+.cover {
+    text-align: center;
+
+    .cover-image {
+        display: block;
+        width: 100%;
+        max-width: 800px;
+        height: auto;
+        margin: 0 auto;
+    }
+
+    .cover-caption {
+        margin-top: 15px;
+        font-size: 18px;
+    }
+}

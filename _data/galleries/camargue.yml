@@ -43,18 +43,18 @@ pictures:
   - DSC_4187-1392x928.jpg
   - DSC_4187-2784x1856.jpg
   thumbnail: DSC_4187-thumbnail.jpg
-- filename: DSC_4227
-  original: DSC_4227.JPG
+- filename: DSC_4227-1
+  original: DSC_4227-1.jpg
   sizes:
-  - DSC_4227-1392x928.jpg
-  - DSC_4227-2784x1856.jpg
-  thumbnail: DSC_4227-thumbnail.jpg
-- filename: DSC_4236
-  original: DSC_4236.JPG
+  - DSC_4227-1-1392x928.jpg
+  - DSC_4227-1-2784x1856.jpg
+  thumbnail: DSC_4227-1-thumbnail.jpg
+- filename: DSC_4236-1
+  original: DSC_4236-1.JPG
   sizes:
-  - DSC_4236-1392x928.jpg
-  - DSC_4236-2784x1856.jpg
-  thumbnail: DSC_4236-thumbnail.jpg
+  - DSC_4236-1-1392x928.jpg
+  - DSC_4236-1-2784x1856.jpg
+  thumbnail: DSC_4236-1-thumbnail.jpg
 - filename: DSC_4238
   original: DSC_4238.JPG
   sizes:

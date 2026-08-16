@@ -2,10 +2,12 @@
 layout: default
 ---
 
-<div class="home">
-
-  <h1 class="page-heading">Galleries photographiques</h1>
-
-  {% include galleries-overview.html %}
-
+<div class="cover">
+  <a href="{{ site.url }}{{ site.baseurl }}/photography/">
+    <img class="cover-image" alt="Camargue"
+         src="{{ site.url }}{{ site.baseurl }}/assets/photography/camargue/DSC_4227-1-2784x1856.jpg"
+         srcset="{{ site.url }}{{ site.baseurl }}/assets/photography/camargue/DSC_4227-1-1392x928.jpg 1392w, {{ site.url }}{{ site.baseurl }}/assets/photography/camargue/DSC_4227-1-2784x1856.jpg 2784w"
+         sizes="(max-width: 800px) 100vw, 800px" />
+  </a>
+  <p class="cover-caption"><a href="{{ site.url }}{{ site.baseurl }}/photography/">Galleries photographiques</a></p>
 </div>
