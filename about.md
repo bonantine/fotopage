@@ -4,10 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi there,
-I am ....
+Photographies par Antoine Boniface.
 
-You can find the source code:
-{% include icon-github.html %} /
-[bonantine](https://github.com/bonantine)
-
+Le code source de ce site est disponible sur GitHub :
+{% include icon-github.html username="bonantine" %}

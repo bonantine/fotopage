@@ -7,7 +7,7 @@
 
 # Site settings
 title: Antoine Boniface
-email: antoine.boniface@domain.com
+email: "" # add a public contact email here to show it in the site footer
 description: "Galleries photographiques"
 baseurl: "/fotopage" # the subpath of your site, e.g. /blog
 url: "https://bonantine.github.io" # the base hostname & protocol for your site
