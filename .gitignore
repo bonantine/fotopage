@@ -1,3 +1,8 @@
 _site/
 .sass-cache/
+.jekyll-cache/
 .jekyll-metadata
+.DS_Store
+
+# Photos are kept out of the repository (deployed separately)
+assets/photography/
