@@ -123,10 +123,13 @@ $on-laptop:        800px;
 
 }
 
-// Site title: first name extra light, last name medium
-.site-title .site-title-first {
+// Site title: both names extra light
+.site-title .site-title-first,
+.site-title .site-title-last {
     font-weight: 200;
 }
-.site-title .site-title-last {
-    font-weight: 500;
+
+// Gallery titles on the portfolio page
+.gallery-preview h1 {
+    font-size: 20px;
 }
