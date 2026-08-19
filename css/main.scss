@@ -133,3 +133,8 @@ $on-laptop:        800px;
 .gallery-preview h1 {
     font-size: 20px;
 }
+
+// About (and other text pages): narrow left-aligned text column
+.post-content {
+    max-width: 620px;
+}
