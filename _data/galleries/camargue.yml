@@ -1,63 +1,63 @@
 picture_path: camargue
 preview:
-  filename: DSC_4143
-  original: DSC_4143.JPG
+  filename: DSC_4143-1
+  original: DSC_4143-1.JPG
   sizes:
-  - DSC_4143-1392x928.jpg
-  - DSC_4143-2784x1856.jpg
-  thumbnail: DSC_4143-thumbnail.jpg
+  - DSC_4143-1-1392x928.jpg
+  - DSC_4143-1-2784x1856.jpg
+  thumbnail: DSC_4143-1-thumbnail.jpg
 pictures:
-- filename: DSC_4143
-  original: DSC_4143.JPG
+- filename: DSC_4143-1
+  original: DSC_4143-1.JPG
   sizes:
-  - DSC_4143-1392x928.jpg
-  - DSC_4143-2784x1856.jpg
-  thumbnail: DSC_4143-thumbnail.jpg
-- filename: DSC_4147
-  original: DSC_4147.JPG
+  - DSC_4143-1-1392x928.jpg
+  - DSC_4143-1-2784x1856.jpg
+  thumbnail: DSC_4143-1-thumbnail.jpg
+- filename: DSC_4147-1
+  original: DSC_4147-1.jpg
   sizes:
-  - DSC_4147-1392x928.jpg
-  - DSC_4147-2784x1856.jpg
-  thumbnail: DSC_4147-thumbnail.jpg
-- filename: DSC_4153-1
-  original: DSC_4153-1.jpg
+  - DSC_4147-1-1392x928.jpg
+  - DSC_4147-1-2784x1856.jpg
+  thumbnail: DSC_4147-1-thumbnail.jpg
+- filename: DSC_4153-2
+  original: DSC_4153-2.jpg
   sizes:
-  - DSC_4153-1-1392x928.jpg
-  - DSC_4153-1-2784x1856.jpg
-  thumbnail: DSC_4153-1-thumbnail.jpg
-- filename: DSC_4161
-  original: DSC_4161.JPG
+  - DSC_4153-2-1392x928.jpg
+  - DSC_4153-2-2784x1856.jpg
+  thumbnail: DSC_4153-2-thumbnail.jpg
+- filename: DSC_4161-1
+  original: DSC_4161-1.JPG
   sizes:
-  - DSC_4161-1392x928.jpg
-  - DSC_4161-2784x1856.jpg
-  thumbnail: DSC_4161-thumbnail.jpg
+  - DSC_4161-1-1392x928.jpg
+  - DSC_4161-1-2784x1856.jpg
+  thumbnail: DSC_4161-1-thumbnail.jpg
 - filename: DSC_4182
   original: DSC_4182.JPG
   sizes:
   - DSC_4182-1392x928.jpg
   - DSC_4182-2784x1856.jpg
   thumbnail: DSC_4182-thumbnail.jpg
-- filename: DSC_4187
-  original: DSC_4187.JPG
+- filename: DSC_4187-1
+  original: DSC_4187-1.jpg
   sizes:
-  - DSC_4187-1392x928.jpg
-  - DSC_4187-2784x1856.jpg
-  thumbnail: DSC_4187-thumbnail.jpg
+  - DSC_4187-1-1392x928.jpg
+  - DSC_4187-1-2784x1856.jpg
+  thumbnail: DSC_4187-1-thumbnail.jpg
+- filename: DSC_4216
+  original: DSC_4216.JPG
+  sizes:
+  - DSC_4216-1392x928.jpg
+  - DSC_4216-2784x1856.jpg
+  thumbnail: DSC_4216-thumbnail.jpg
 - filename: DSC_4227-1
   original: DSC_4227-1.jpg
   sizes:
   - DSC_4227-1-1392x928.jpg
   - DSC_4227-1-2784x1856.jpg
   thumbnail: DSC_4227-1-thumbnail.jpg
-- filename: DSC_4236-1
-  original: DSC_4236-1.JPG
+- filename: DSC_4238-1
+  original: DSC_4238-1.JPG
   sizes:
-  - DSC_4236-1-1392x928.jpg
-  - DSC_4236-1-2784x1856.jpg
-  thumbnail: DSC_4236-1-thumbnail.jpg
-- filename: DSC_4238
-  original: DSC_4238.JPG
-  sizes:
-  - DSC_4238-1392x928.jpg
-  - DSC_4238-2784x1856.jpg
-  thumbnail: DSC_4238-thumbnail.jpg
+  - DSC_4238-1-1392x928.jpg
+  - DSC_4238-1-2784x1856.jpg
+  thumbnail: DSC_4238-1-thumbnail.jpg
