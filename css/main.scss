@@ -6,7 +6,7 @@
 
 
 // Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-family: "Manrope", "Helvetica Neue", Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
@@ -121,8 +121,12 @@ $on-laptop:        800px;
         margin: 0 auto;
     }
 
-    .cover-caption {
-        margin-top: 15px;
-        font-size: 18px;
-    }
+}
+
+// Site title: first name extra light, last name medium
+.site-title .site-title-first {
+    font-weight: 200;
+}
+.site-title .site-title-last {
+    font-weight: 500;
 }
