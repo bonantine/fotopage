@@ -78,3 +78,24 @@ html {
 .lg-outer .lg-inner {
   margin: 0 70px !important; /* Add space on the sides for the arrows */
 }
+
+/* Small screens: no side gutters (they cropped the photo), arrows overlaid */
+@media screen and (max-width: 800px) {
+  .lg-outer .lg-inner {
+    margin: 0 !important;
+  }
+  .lg-outer .lg-prev {
+    left: 8px !important;
+  }
+  .lg-outer .lg-next {
+    right: 8px !important;
+  }
+}
+
+/* Small screens: single-column photo grid */
+@media screen and (max-width: 600px) {
+  .image-wrapper,
+  .gallery-sizer {
+    width: 100%;
+  }
+}

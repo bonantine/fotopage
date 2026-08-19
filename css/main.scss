@@ -138,3 +138,16 @@ $on-laptop:        800px;
 .post-content {
     max-width: 620px;
 }
+
+// Footer: centered links
+.footer-links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+
+    li {
+        display: inline-block;
+        margin: 0 12px;
+    }
+}
