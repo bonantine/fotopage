@@ -11,6 +11,10 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap">
   <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/{{ "css/main.css" }}">
   <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}/{{ page.url | replace:'index.html','' }}">
+  {% assign _lang = page.lang | default: 'en' %}
+  {% if _lang == 'fr' %}{% assign _en_url = page.url | remove_first: '/fr' %}{% assign _fr_url = page.url %}{% else %}{% assign _en_url = page.url %}{% assign _fr_url = '/fr' | append: page.url %}{% endif %}
+  <link rel="alternate" hreflang="en" href="{{ site.url }}{{ site.baseurl }}{{ _en_url | replace:'index.html','' }}">
+  <link rel="alternate" hreflang="fr" href="{{ site.url }}{{ site.baseurl }}{{ _fr_url | replace:'index.html','' }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}{{ site.baseurl }}/{{ "feed.xml" }}">
 
   {% if page.support contains 'jquery' %}

@@ -1,7 +1,11 @@
+{% assign lang = page.lang | default: 'en' %}
+{% assign t = site.data.translations[lang] %}
+{% assign lang_prefix = '' %}{% if lang == 'fr' %}{% assign lang_prefix = '/fr' %}{% endif %}
+{% if lang == 'fr' %}{% assign twin_url = page.url | remove_first: '/fr' %}{% assign twin_label = 'EN' %}{% else %}{% assign twin_url = '/fr' | append: page.url %}{% assign twin_label = 'FR' %}{% endif %}
 <header class="site-header">
   <div class="wrapper">
     {% assign site_title_words = site.title | split: " " %}
-    <a class="site-title" href="{{ site.url }}{{ site.baseurl }}/"><span class="site-title-first">{{ site_title_words | first }}</span> <span class="site-title-last">{{ site_title_words | last }}</span></a>
+    <a class="site-title" href="{{ site.url }}{{ site.baseurl }}{{ lang_prefix }}/"><span class="site-title-first">{{ site_title_words | first }}</span> <span class="site-title-last">{{ site_title_words | last }}</span></a>
     <nav class="site-nav">
       <a href="#" class="menu-icon">
         <svg viewBox="0 0 18 15">
@@ -11,8 +15,9 @@
         </svg>
       </a>
       <div class="trigger">
-        <a class="page-link" href="{{ site.url }}{{ site.baseurl }}/about/">About</a>
-        <a class="page-link" href="{{ site.url }}{{ site.baseurl }}/photography/">Portfolio</a>
+        <a class="page-link" href="{{ site.url }}{{ site.baseurl }}{{ lang_prefix }}/about/">{{ t.nav_about }}</a>
+        <a class="page-link" href="{{ site.url }}{{ site.baseurl }}{{ lang_prefix }}/photography/">{{ t.nav_portfolio }}</a>
+        <a class="page-link lang-switch" href="{{ site.url }}{{ site.baseurl }}{{ twin_url }}">{{ twin_label }}</a>
       </div>
     </nav>
   </div>
