@@ -3,9 +3,20 @@
  title_fr: Camargue
  directory: camargue
  preview:
-  filename: DSC_4143-1
-  original: DSC_4143-1.JPG
+  filename: DSC_4143-1-1
+  original: DSC_4143-1-1.jpg
   sizes:
-  - DSC_4143-1-1392x928.jpg
-  - DSC_4143-1-2784x1856.jpg
-  thumbnail: DSC_4143-1-thumbnail.jpg
+  - DSC_4143-1-1-1392x928.jpg
+  - DSC_4143-1-1-2784x1856.jpg
+  thumbnail: DSC_4143-1-1-thumbnail.jpg
+-
+ title: Light in Motion
+ title_fr: Light in Motion
+ directory: light_in_motion
+ preview:
+  filename: DSCF8153-1
+  original: DSCF8153-1.jpg
+  sizes:
+  - DSCF8153-1-1392x782.jpg
+  - DSCF8153-1-2784x1564.jpg
+  thumbnail: DSCF8153-1-thumbnail.jpg
