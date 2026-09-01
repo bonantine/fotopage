@@ -1,0 +1,8 @@
+---
+layout: gallery
+title: To the Sea
+no_menu_item: true
+support: [jquery, gallery]
+---
+
+{% include gallery-layout.html gallery=site.data.galleries.to_the_sea %}

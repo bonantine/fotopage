@@ -13,3 +13,19 @@ pictures:
   - DSCF8153-1-1392x782.jpg
   - DSCF8153-1-2784x1564.jpg
   thumbnail: DSCF8153-1-thumbnail.jpg
+- filename: DSC_0057
+  original: DSC_0057.jpg
+  sizes:
+  - DSC_0057-1392x921.jpg
+  - DSC_0057-2784x1842.jpg
+  thumbnail: DSC_0057-thumbnail.jpg
+- filename: DSC_0154
+  original: DSC_0154.jpg
+  sizes:
+  - DSC_0154-900x598.jpg
+  thumbnail: DSC_0154-thumbnail.jpg
+- filename: DSC_0579-1
+  original: DSC_0579-1.jpg
+  sizes:
+  - DSC_0579-1-900x599.jpg
+  thumbnail: DSC_0579-1-thumbnail.jpg

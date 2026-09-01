@@ -1,0 +1,33 @@
+picture_path: geometrical
+preview:
+  filename: DSC_0339
+  original: DSC_0339.jpg
+  sizes:
+  - DSC_0339-900x596.jpg
+  thumbnail: DSC_0339-thumbnail.jpg
+pictures:
+- filename: DSC_0339
+  original: DSC_0339.jpg
+  sizes:
+  - DSC_0339-900x596.jpg
+  thumbnail: DSC_0339-thumbnail.jpg
+- filename: DSC_0342
+  original: DSC_0342.jpg
+  sizes:
+  - DSC_0342-900x596.jpg
+  thumbnail: DSC_0342-thumbnail.jpg
+- filename: DSC_0358
+  original: DSC_0358.jpg
+  sizes:
+  - DSC_0358-900x596.jpg
+  thumbnail: DSC_0358-thumbnail.jpg
+- filename: DSC_0375-1
+  original: DSC_0375-1.jpg
+  sizes:
+  - DSC_0375-1-596x900.jpg
+  thumbnail: DSC_0375-1-thumbnail.jpg
+- filename: DSCF8783
+  original: DSCF8783.jpg
+  sizes:
+  - DSCF8783-900x675.jpg
+  thumbnail: DSCF8783-thumbnail.jpg

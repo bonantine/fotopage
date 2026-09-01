@@ -1,0 +1,13 @@
+picture_path: think_twice
+preview:
+  filename: DSC_0203-2
+  original: DSC_0203-2.jpg
+  sizes:
+  - DSC_0203-2-900x900.jpg
+  thumbnail: DSC_0203-2-thumbnail.jpg
+pictures:
+- filename: DSC_0203-2
+  original: DSC_0203-2.jpg
+  sizes:
+  - DSC_0203-2-900x900.jpg
+  thumbnail: DSC_0203-2-thumbnail.jpg

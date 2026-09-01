@@ -1,7 +1,7 @@
 -
- title: Camargue
- title_fr: Camargue
- directory: camargue
+ title: To the Sea
+ title_fr: To the Sea
+ directory: to_the_sea
  preview:
   filename: DSC_4143-1-1
   original: DSC_4143-1-1.jpg
@@ -20,3 +20,23 @@
   - DSCF8153-1-1392x782.jpg
   - DSCF8153-1-2784x1564.jpg
   thumbnail: DSCF8153-1-thumbnail.jpg
+-
+ title: Geometrical
+ title_fr: Geometrical
+ directory: geometrical
+ preview:
+  filename: DSC_0339
+  original: DSC_0339.jpg
+  sizes:
+  - DSC_0339-900x596.jpg
+  thumbnail: DSC_0339-thumbnail.jpg
+-
+ title: Think Twice
+ title_fr: Think Twice
+ directory: think_twice
+ preview:
+  filename: DSC_0203-2
+  original: DSC_0203-2.jpg
+  sizes:
+  - DSC_0203-2-900x900.jpg
+  thumbnail: DSC_0203-2-thumbnail.jpg
