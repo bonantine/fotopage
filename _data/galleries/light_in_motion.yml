@@ -24,8 +24,8 @@ pictures:
   sizes:
   - DSC_0154-900x598.jpg
   thumbnail: DSC_0154-thumbnail.jpg
-- filename: DSC_0579-1
-  original: DSC_0579-1.jpg
+- filename: DSC_0579
+  original: DSC_0579.png
   sizes:
-  - DSC_0579-1-900x599.jpg
-  thumbnail: DSC_0579-1-thumbnail.jpg
+  - DSC_0579-900x599.jpg
+  thumbnail: DSC_0579-thumbnail.jpg

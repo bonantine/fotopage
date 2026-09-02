@@ -11,3 +11,8 @@ pictures:
   sizes:
   - DSC_0203-2-900x900.jpg
   thumbnail: DSC_0203-2-thumbnail.jpg
+- filename: DSC_0754
+  original: DSC_0754.png
+  sizes:
+  - DSC_0754-900x600.jpg
+  thumbnail: DSC_0754-thumbnail.jpg

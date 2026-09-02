@@ -31,6 +31,16 @@
   - DSC_0339-900x596.jpg
   thumbnail: DSC_0339-thumbnail.jpg
 -
+ title: Overlooked
+ title_fr: Overlooked
+ directory: overlooked
+ preview:
+  filename: DSC_0543
+  original: DSC_0543.png
+  sizes:
+  - DSC_0543-900x600.jpg
+  thumbnail: DSC_0543-thumbnail.jpg
+-
  title: Think Twice
  title_fr: Think Twice
  directory: think_twice

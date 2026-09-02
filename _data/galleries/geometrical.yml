@@ -11,11 +11,6 @@ pictures:
   sizes:
   - DSC_0339-900x596.jpg
   thumbnail: DSC_0339-thumbnail.jpg
-- filename: DSC_0342
-  original: DSC_0342.jpg
-  sizes:
-  - DSC_0342-900x596.jpg
-  thumbnail: DSC_0342-thumbnail.jpg
 - filename: DSC_0358
   original: DSC_0358.jpg
   sizes:
@@ -26,6 +21,16 @@ pictures:
   sizes:
   - DSC_0375-1-596x900.jpg
   thumbnail: DSC_0375-1-thumbnail.jpg
+- filename: DSC_0532
+  original: DSC_0532.png
+  sizes:
+  - DSC_0532-900x600.jpg
+  thumbnail: DSC_0532-thumbnail.jpg
+- filename: DSC_0591
+  original: DSC_0591.png
+  sizes:
+  - DSC_0591-900x600.jpg
+  thumbnail: DSC_0591-thumbnail.jpg
 - filename: DSCF8783
   original: DSCF8783.jpg
   sizes:

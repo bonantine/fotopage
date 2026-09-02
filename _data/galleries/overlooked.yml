@@ -1,0 +1,18 @@
+picture_path: overlooked
+preview:
+  filename: DSC_0543
+  original: DSC_0543.png
+  sizes:
+  - DSC_0543-900x600.jpg
+  thumbnail: DSC_0543-thumbnail.jpg
+pictures:
+- filename: DSC_0543
+  original: DSC_0543.png
+  sizes:
+  - DSC_0543-900x600.jpg
+  thumbnail: DSC_0543-thumbnail.jpg
+- filename: DSC_0608
+  original: DSC_0608.png
+  sizes:
+  - DSC_0608-900x600.jpg
+  thumbnail: DSC_0608-thumbnail.jpg
