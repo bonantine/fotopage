@@ -41,6 +41,16 @@
   - DSC_0543-900x600.jpg
   thumbnail: DSC_0543-thumbnail.jpg
 -
+ title: Saltworn
+ title_fr: Saltworn
+ directory: saltworn
+ preview:
+  filename: IMG_6355
+  original: IMG_6355.png
+  sizes:
+  - IMG_6355-900x675.jpg
+  thumbnail: IMG_6355-thumbnail.jpg
+-
  title: Think Twice
  title_fr: Think Twice
  directory: think_twice

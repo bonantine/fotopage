@@ -1,0 +1,38 @@
+picture_path: saltworn
+preview:
+  filename: IMG_6355
+  original: IMG_6355.png
+  sizes:
+  - IMG_6355-900x675.jpg
+  thumbnail: IMG_6355-thumbnail.jpg
+pictures:
+- filename: IMG_6355
+  original: IMG_6355.png
+  sizes:
+  - IMG_6355-900x675.jpg
+  thumbnail: IMG_6355-thumbnail.jpg
+- filename: IMG_6362
+  original: IMG_6362.png
+  sizes:
+  - IMG_6362-675x900.jpg
+  thumbnail: IMG_6362-thumbnail.jpg
+- filename: IMG_6364
+  original: IMG_6364.png
+  sizes:
+  - IMG_6364-900x675.jpg
+  thumbnail: IMG_6364-thumbnail.jpg
+- filename: IMG_6365
+  original: IMG_6365.png
+  sizes:
+  - IMG_6365-675x900.jpg
+  thumbnail: IMG_6365-thumbnail.jpg
+- filename: IMG_6377
+  original: IMG_6377.png
+  sizes:
+  - IMG_6377-675x900.jpg
+  thumbnail: IMG_6377-thumbnail.jpg
+- filename: IMG_6379
+  original: IMG_6379.png
+  sizes:
+  - IMG_6379-900x596.jpg
+  thumbnail: IMG_6379-thumbnail.jpg
