@@ -129,9 +129,14 @@ $on-laptop:        800px;
     font-weight: 200;
 }
 
-// Gallery titles on the portfolio page
-.gallery-preview h1 {
-    font-size: 20px;
+// Portfolio cards: title close to its photo, clear space between collections
+.gallery-preview {
+    margin-bottom: 40px;
+
+    h1 {
+        font-size: 20px;
+        margin-bottom: 6px;
+    }
 }
 
 // About (and other text pages): narrow left-aligned text column
