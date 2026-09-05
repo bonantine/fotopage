@@ -1,0 +1,23 @@
+picture_path: mind_wandering
+preview:
+  filename: DSCF0698-1
+  original: DSCF0698-1.png
+  sizes:
+  - DSCF0698-1-900x641.jpg
+  thumbnail: DSCF0698-1-thumbnail.jpg
+pictures:
+- filename: DSCF0698-1
+  original: DSCF0698-1.png
+  sizes:
+  - DSCF0698-1-900x641.jpg
+  thumbnail: DSCF0698-1-thumbnail.jpg
+- filename: DSCF1381
+  original: DSCF1381.png
+  sizes:
+  - DSCF1381-900x562.jpg
+  thumbnail: DSCF1381-thumbnail.jpg
+- filename: pic-295
+  original: pic-295.png
+  sizes:
+  - pic-295-900x599.jpg
+  thumbnail: pic-295-thumbnail.jpg

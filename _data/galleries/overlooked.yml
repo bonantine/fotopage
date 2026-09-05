@@ -16,3 +16,18 @@ pictures:
   sizes:
   - DSC_0608-900x600.jpg
   thumbnail: DSC_0608-thumbnail.jpg
+- filename: benin-130
+  original: benin-130.png
+  sizes:
+  - benin-130-900x506.jpg
+  thumbnail: benin-130-thumbnail.jpg
+- filename: benin-134
+  original: benin-134.png
+  sizes:
+  - benin-134-900x506.jpg
+  thumbnail: benin-134-thumbnail.jpg
+- filename: benin-135
+  original: benin-135.png
+  sizes:
+  - benin-135-900x528.jpg
+  thumbnail: benin-135-thumbnail.jpg

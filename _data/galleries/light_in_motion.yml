@@ -29,3 +29,13 @@ pictures:
   sizes:
   - DSC_0579-900x599.jpg
   thumbnail: DSC_0579-thumbnail.jpg
+- filename: DSCF1232
+  original: DSCF1232.png
+  sizes:
+  - DSCF1232-900x675.jpg
+  thumbnail: DSCF1232-thumbnail.jpg
+- filename: DSCF1445
+  original: DSCF1445.png
+  sizes:
+  - DSCF1445-675x900.jpg
+  thumbnail: DSCF1445-thumbnail.jpg

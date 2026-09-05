@@ -31,6 +31,16 @@
   - DSC_0339-900x596.jpg
   thumbnail: DSC_0339-thumbnail.jpg
 -
+ title: Mind Wandering
+ title_fr: Mind Wandering
+ directory: mind_wandering
+ preview:
+  filename: DSCF0698-1
+  original: DSCF0698-1.png
+  sizes:
+  - DSCF0698-1-900x641.jpg
+  thumbnail: DSCF0698-1-thumbnail.jpg
+-
  title: Overlooked
  title_fr: Overlooked
  directory: overlooked
